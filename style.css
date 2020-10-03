@@ -1,0 +1,30 @@
+header{
+    background-color:#a0bf9c;
+}
+
+header h1{
+    text-align: center;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+footer h1{
+    background-color:#a0bf9c ;
+    font-size: 20px;
+    text-align: center;
+}
+
+img{
+    widows: 350px; ;
+    height: 350px;
+}
+
+.alinharAoCentro{
+    display:flex;
+    justify-content: center;
+}
